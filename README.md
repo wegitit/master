@@ -1,0 +1,3 @@
+# master.vm
+master config @ /
+
